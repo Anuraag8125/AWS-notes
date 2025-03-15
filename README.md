@@ -1,2 +1,2 @@
 # AWS-notes
-Hello this is AWS demo class
+Hello this is AWS demo
