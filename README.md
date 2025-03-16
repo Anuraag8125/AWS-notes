@@ -1,2 +1,2 @@
 # AWS-notes
-This is for demo
+This is for demo class
