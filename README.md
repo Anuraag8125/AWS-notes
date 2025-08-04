@@ -1,4 +1,4 @@
-# AWS-notes
+# AWS- Self Notes
 Perfect — thanks for the details! Here's a **structured 10-week AWS DevOps course plan** designed to get you job-ready for entry-level roles.
 
 ---
